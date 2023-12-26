@@ -34,7 +34,7 @@
 I'm a passionate app developer with a knack for creating awesome and user-friendly applications. My skills range from front-end development using React to server-side scripting with Node.js. I love turning ideas into reality and bringing beautiful designs to life. I am currently working as SDE 2 at Dream11.
 
 <!-- Featured Projects -->
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects -->
 <!-- - [Project 1](https://github.com/your_username/project-1) - Short description here. -->
 <!-- - [Project 2](https://github.com/your_username/project-2) - Short description here. -->
 
