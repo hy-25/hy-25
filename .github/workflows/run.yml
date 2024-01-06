@@ -1,7 +1,8 @@
 name: "Cronjob"
 on:
-  schedule:
-    - cron: '* * * * *'
+  push:
+    branches:
+      - main
 
 jobs:
   update-weather:
