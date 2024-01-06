@@ -45,6 +45,9 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 <!-- Footer Section -->
 <!-- Footer Section -->
 
+{{ template "hourly-table" $.TodayWeather.HourlyWeathers }}
+{{ formatTime .UpdatedAt }}
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hy-25" alt="Profile Views">
 </p>
