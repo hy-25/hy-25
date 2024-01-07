@@ -46,7 +46,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
 
 ###Behror Weather Today. 
-2024-01-07T04:40:08Z
+2024-01-07T05:38:33Z
 
 <table>
     <tr>
@@ -55,19 +55,19 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Patchy rain possible</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
+        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly cloudy</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>4.8 -  19.1 °C</td><td>8.1 -  22.2 °C</td><td>11.2 -  19 °C</td><td>9.4 -  22.2 °C</td><td>10.5 -  23.4 °C</td><td>11 -  24.7 °C</td><td>11.5 -  25.1 °C</td>
+        <td>4.8 -  19 °C</td><td>8 -  22.3 °C</td><td>11.8 -  19.8 °C</td><td>9.4 -  22.3 °C</td><td>10 -  23.5 °C</td><td>10.5 -  24.7 °C</td><td>11.7 -  25 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.8 kph</td><td>11.2 kph</td><td>9.7 kph</td><td>18 kph</td><td>12.6 kph</td><td>9.7 kph</td><td>10.4 kph</td>
+        <td>7.2 kph</td><td>10.8 kph</td><td>9.4 kph</td><td>14.4 kph</td><td>12.2 kph</td><td>8.6 kph</td><td>11.5 kph</td>
     </tr>
 </table>
 
