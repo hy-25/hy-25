@@ -45,7 +45,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 <!-- Footer Section -->
 <!-- Footer Section -->
 
-###Behror Weather Today. 
+### Behror Weather Today. 
 {{ formatTime .UpdatedAt }}
 {{ template "daily-table" .Weathers }}
 
