@@ -46,7 +46,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
 
 ###Behror Weather Today. 
-2024-01-06T23:38:25Z
+2024-01-07T01:44:55Z
 
 <table>
     <tr>
@@ -63,11 +63,11 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>7.3 -  20.3 °C</td><td>8.9 -  22.4 °C</td><td>12.3 -  19.2 °C</td><td>9.8 -  22.4 °C</td><td>10.3 -  23.5 °C</td><td>11.1 -  24.5 °C</td><td>11.7 -  24.9 °C</td>
+        <td>4.8 -  19.1 °C</td><td>8.1 -  22.2 °C</td><td>11.2 -  19 °C</td><td>9.4 -  22.2 °C</td><td>10.5 -  23.4 °C</td><td>11 -  24.7 °C</td><td>11.5 -  25.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.2 kph</td><td>10.8 kph</td><td>11.9 kph</td><td>18 kph</td><td>12.2 kph</td><td>7.2 kph</td><td>10.1 kph</td>
+        <td>6.8 kph</td><td>11.2 kph</td><td>9.7 kph</td><td>18 kph</td><td>12.6 kph</td><td>9.7 kph</td><td>10.4 kph</td>
     </tr>
 </table>
 
