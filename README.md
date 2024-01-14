@@ -46,28 +46,28 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
 
 ### Behror Weather this Week. 
-Updated at: 2024-01-13T01:56:52Z
+Updated at: 2024-01-14T02:02:12Z
 
 <table>
     <tr>
         <th>Date</th>
-        <td>13/01/2024</td><td>14/01/2024</td><td>15/01/2024</td><td>16/01/2024</td><td>17/01/2024</td><td>18/01/2024</td><td>19/01/2024</td>
+        <td>14/01/2024</td><td>15/01/2024</td><td>16/01/2024</td><td>17/01/2024</td><td>18/01/2024</td><td>19/01/2024</td><td>20/01/2024</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Overcast</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
+        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Overcast</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>9.5 -  22.5 °C</td><td>9.3 -  23.2 °C</td><td>9.4 -  23.5 °C</td><td>10.1 -  23.6 °C</td><td>9.7 -  23.3 °C</td><td>9.9 -  23 °C</td><td>10.1 -  23.2 °C</td>
+        <td>8 -  22.7 °C</td><td>8.4 -  23 °C</td><td>11 -  23.5 °C</td><td>9.3 -  22.9 °C</td><td>9.6 -  23 °C</td><td>10 -  23.7 °C</td><td>9.9 -  23.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.1 kph</td><td>7.9 kph</td><td>5.8 kph</td><td>11.2 kph</td><td>15.1 kph</td><td>9.7 kph</td><td>8.6 kph</td>
+        <td>9.4 kph</td><td>6.8 kph</td><td>13 kph</td><td>13.7 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>6.1 kph</td>
     </tr>
 </table>
 
