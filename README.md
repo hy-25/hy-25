@@ -46,28 +46,28 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
 
 ### Behror Weather this Week. 
-Updated at: 2024-01-26T01:51:44Z
+Updated at: 2024-01-27T01:47:24Z
 
 <table>
     <tr>
         <th>Date</th>
-        <td>26/01/2024</td><td>27/01/2024</td><td>28/01/2024</td>
+        <td>27/01/2024</td><td>28/01/2024</td><td>29/01/2024</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
+        <td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>7.8 -  22.4 °C</td><td>9.7 -  23.6 °C</td><td>10.8 -  25.1 °C</td>
+        <td>8.7 -  23.8 °C</td><td>11.2 -  24.2 °C</td><td>11.2 -  26.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9.4 kph</td><td>11.5 kph</td><td>6.8 kph</td>
+        <td>11.5 kph</td><td>12.2 kph</td><td>11.2 kph</td>
     </tr>
 </table>
 
