@@ -46,12 +46,12 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
 
 ### Behror Weather this Week. 
-Updated at: 2024-02-22T01:48:44Z
+Updated at: 2024-02-23T01:48:35Z
 
 <table>
     <tr>
         <th>Date</th>
-        <td>22/02/2024</td><td>23/02/2024</td><td>24/02/2024</td>
+        <td>23/02/2024</td><td>24/02/2024</td><td>25/02/2024</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -63,11 +63,11 @@ Updated at: 2024-02-22T01:48:44Z
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>10.4 -  25.2 °C</td><td>9.8 -  25.5 °C</td><td>10.4 -  26.4 °C</td>
+        <td>8.5 -  24.6 °C</td><td>9.4 -  25.2 °C</td><td>10.4 -  25.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.8 kph</td><td>6.8 kph</td><td>10.4 kph</td>
+        <td>11.5 kph</td><td>11.9 kph</td><td>13.3 kph</td>
     </tr>
 </table>
 
