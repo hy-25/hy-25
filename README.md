@@ -46,12 +46,12 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
 
 ### Behror Weather this Week. 
-Updated at: 2025-03-06T02:21:53Z
+Updated at: 2025-03-07T02:22:45Z
 
 <table>
     <tr>
         <th>Date</th>
-        <td>06/03/2025</td><td>07/03/2025</td><td>08/03/2025</td>
+        <td>07/03/2025</td><td>08/03/2025</td><td>09/03/2025</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -63,11 +63,11 @@ Updated at: 2025-03-06T02:21:53Z
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>14.1 -  29.6 °C</td><td>15.7 -  30.7 °C</td><td>15.4 -  29.9 °C</td>
+        <td>16.4 -  30.7 °C</td><td>17.7 -  30.8 °C</td><td>18.3 -  32.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>23 kph</td><td>16.9 kph</td><td>11.2 kph</td>
+        <td>16.9 kph</td><td>13.7 kph</td><td>14.4 kph</td>
     </tr>
 </table>
 
